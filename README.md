@@ -35,14 +35,6 @@
 <code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/abhishekraoas)</code>
 
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Now I’m a “Web Developer”](https://internetduniyaaa.com)
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More Blog Posts...](https://internetduniyaaa.com)
 
 <!---
 abhishekraoas/abhishekraoas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
