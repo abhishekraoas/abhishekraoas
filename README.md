@@ -11,6 +11,24 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </a><br><br>
  
+ ```python
+class AbhiShekRao():
+    
+  def __init__(self):
+    self.name = "AbhiShek Rao";
+    self.username = "abhishekraoas";
+    self.location = "Gorakhpur, India";
+    self.twitter = "@abhishekraoas";
+    self.web = "https://internetduniyaaa.in";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AbhiShekRao()
+```
+<br>
+ 
 
 - 👀 I’m interested in Computer, Hacking, Coding, Programming, Technology and Digital Marketing.
 - 🌱 I’m currently learning Php, Python, JavaScript.
