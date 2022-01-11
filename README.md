@@ -52,7 +52,18 @@ if __name__ == '__main__':
 <code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/abhishekraoas)</code> 
 <code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/abhishekraoas)</code>
 
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekraoas&theme=radical" alt="abhishekraoas Github Stats" />
+  </p> 
+   <p align='center'>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=abhishekraoas&count_private=true&theme=radical"/>
+</p>
+  <p align='center'>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekraoas&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/abhishekraoas/count.svg" />
+</p>
 
 <!---
 abhishekraoas/abhishekraoas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
