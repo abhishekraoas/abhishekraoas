@@ -11,7 +11,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </a><br><br>
  
- ```python
+ 
+ <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abhishekraoas&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+  
+<!--  ```python
 class AbhiShekRao():
     
   def __init__(self):
@@ -26,7 +30,7 @@ class AbhiShekRao():
 
 if __name__ == '__main__':
     me = AbhiShekRao()
-```
+``` -->
 <br>
  
 
