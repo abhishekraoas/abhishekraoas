@@ -35,7 +35,7 @@ if __name__ == '__main__':
  
 
 - 👀 I’m interested in Computer, Hacking, Coding, Programming, Technology and Digital Marketing.
-- 🌱 I’m currently learning JAVA, PHP, Python, JavaScript.
+- 🌱 I’m currently learning JAVA, Flutter, Python, JavaScript.
 - 🔭A passionate and aspiring MERN stack developer from India
 - 🤝 2022 Goals: Contribute more to Open Source projects
 - 💞️ I’m looking to collaborate on ...
