@@ -34,7 +34,7 @@ if __name__ == '__main__':
 - 👀 I’m interested in Computer, Hacking, Coding, Programming, Technology and Digital Marketing.
 - 🌱 I’m currently learning Java, C++, MySQL, JavaSwing, JavaScript
 - 🔭A passionate and aspiring MERN stack developer from India
-- 🤝 2023 Goals: Contribute more to Open Source projects
+- 🤝 2024 Goals: Contribute more to Open Source projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me DM internetduniya02@gmail.com
 - 💻 Languages and Tools I use:   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
