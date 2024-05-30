@@ -32,7 +32,7 @@ if __name__ == '__main__':
  
 
 - 👀 I’m interested in Computer, Hacking, Coding, Programming, Technology and Digital Marketing.
-- 🌱 I’m currently learning Java, C++, MySQL, JavaSwing, JavaScript
+- 🌱 I’m currently learning NodeJS, MongoDB, React, JavaSwing
 - 🔭A passionate and aspiring MERN stack developer from India
 - 🤝 2024 Goals: Contribute more to Open Source projects
 - 💞️ I’m looking to collaborate on ...
