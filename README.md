@@ -31,8 +31,9 @@ if __name__ == '__main__':
 <br>
  
 
-- 👀 I’m interested in Computer, Hacking, Coding, Programming, Technology and Digital Marketing.
-- 🌱 I’m currently learning NodeJS, MongoDB, React, JavaSwing
+- 👀 Currently I'm a Campus Ambassador GirlScript Summer Of Code (GSSoC'24).
+- 🖥️ I’m currently working on Open Source Project Admin ( GSSoC24 Ext, Hacktoberfest24)
+- 🌱 I’m currently learning NodeJS, ExpressJS, MongoDB, React
 - 🔭A passionate and aspiring MERN stack developer from India
 - 🤝 2024 Goals: Contribute more to Open Source projects
 - 💞️ I’m looking to collaborate on ...
