@@ -31,7 +31,7 @@ if __name__ == '__main__':
 <br>
  
 
-- 👀 Currently I'm a Campus Ambassador GirlScript Summer Of Code (GSSoC'24).
+- 👀 Ex-Campus Ambassador GirlScript Summer Of Code (GSSoC'24).
 - 🖥️ I’m currently working on Open Source Project Mentor ( GSSoC25 )
 - 🌱 I have strong foundation in NodeJS, ExpressJS, MongoDB, React
 - 🔭A passionate and aspiring MERN stack developer from India
