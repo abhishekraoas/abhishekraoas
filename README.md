@@ -32,10 +32,10 @@ if __name__ == '__main__':
  
 
 - 👀 Currently I'm a Campus Ambassador GirlScript Summer Of Code (GSSoC'24).
-- 🖥️ I’m currently working on Open Source Project Admin ( GSSoC24 Ext, Hacktoberfest24)
-- 🌱 I’m currently learning NodeJS, ExpressJS, MongoDB, React
+- 🖥️ I’m currently working on Open Source Project Mentor ( GSSoC25 )
+- 🌱 I have strong foundation in NodeJS, ExpressJS, MongoDB, React
 - 🔭A passionate and aspiring MERN stack developer from India
-- 🤝 2024 Goals: Contribute more to Open Source projects
+- 🤝 2025 Goals: Contribute more to Open Source projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me DM internetduniya02@gmail.com
 - 💻 Languages and Tools I use:   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
